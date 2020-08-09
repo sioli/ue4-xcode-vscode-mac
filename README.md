@@ -525,6 +525,8 @@ After installing Python 3, Visual Studio Code should work as expected.
 
 ## VSCode UE4 Intellisense
 First find your project c_cpp_properties file, then replace the "defines:[]" block with following:(you need to replace 'MyProject' to your real project name)
+See more details at:https://cdn.fs.teachablecdn.com/5GuRLyP1QtGXtVRTS6Cp
+
             "defines": [
                 "IS_PROGRAM=0",
                 "UE_EDITOR=1",

@@ -16,7 +16,7 @@
 [Building or Cleaning Your Project in Visual Studio Code](#Building-or-Cleaning-Your-Project-in-Visual-Studio-Code)  
 [Visual Studio Code Conclusion](#Visual-Studio-Code-Conclusion)  
 [Using VSCode with Older UE4 and macOS](#Using-VSCode-with-Older-UE4-and-macOS)  
-[VSCode UE4 intellisense](#VSCode UE4 Intellisense)
+[VSCode UE4 intellisense](#VSCode-UE4-Intellisense)
 <!--te-->
 
 ## Getting Started
